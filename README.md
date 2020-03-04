@@ -2,4 +2,4 @@
 
 #
 #   Class project location for Data Science
-#   Sphynx of black quartz, hear my vow
+#   Sphinx of black quartz, judge my vow
